@@ -1,0 +1,20 @@
+[{
+    "template_id": 1,
+    "bg_img": "https://exp.cdn-hotels.com/hotels/1000000/880000/872600/872553/163d9c92_z.jpg",
+    "width": "700px",
+    "height": "360px",
+    "html": "<div class='t1'> <h1 class='text_popup_head dr'>Special Offer</h1> <div class='dr text_popup_sub'>Book early and save up to and get your promo code</div> <div class='dr text_popup_num'>12%</div> <a target='_self' class='dr offer__link'>Complete your reservation</a> </div>",
+    "css": [{
+            "elment_class": "text_popup_head",
+            "font-size": "26px",
+            "text-shadow": "0 0 6px #fff",
+            "letter-spacing": "0"
+        },
+        {
+            "elment_class": "text_popup_sub",
+            "font-size": "14px",
+            "text-shadow": "0 0 6px #fff",
+            "letter-spacing": "0"
+        }
+    ]
+}]

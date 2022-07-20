@@ -1,0 +1,357 @@
+[{
+        "elmnt_id": 1,
+        "type": "title_text",
+        "preview": "<div data-id='1' class='bgu heading'>Add heading</div>",
+        "html": "<h1 class='dr heading_class'>Heading</h1>",
+        "target": "",
+        "css": [{
+            "elment_class": "heading_class",
+            "position": "absolute",
+            "color": "white",
+            "width": "auto",
+            "height": "auto",
+            "top": "20px",
+            "left": "40px",
+            "float": "",
+            "font-family":"Open Sans",
+            "font-height": "",
+            "font-size": ""
+        }]
+    },
+    {
+        "elmnt_id": 2,
+        "type": "title_text",
+        "preview": "<div data-id='2' class='bgu subheading'>Add subheading</div>",
+        "html": "<h4 class='dr subheading_class'>Subheading</h4>",
+        "target": "",
+        "css": [{
+            "elment_class": "subheading_class",
+            "position": "absolute",
+            "color": "white",
+            "width": "auto",
+            "height": "auto",
+            "top": "50px",
+            "left": "40px",
+            "float": "",
+            "font-family":"Open Sans",
+            "font-height": "",
+            "font-size": ""
+        }]
+    },
+    {
+        "elmnt_id": 3,
+        "type": "title_text",
+        "preview": "<div data-id='3' class='bgu subheading'>Add body text</div>",
+        "html": "<p class='dr body_class'>Body text</p>",
+        "target": "",
+        "css": [{
+            "elment_class": "body_class",
+            "position": "absolute",
+            "color": "white",
+            "width": "auto",
+            "height": "auto",
+            "top": "70px",
+            "left": "40px",
+            "float": "",
+            "font-family":"Open Sans",
+            "font-height": "",
+            "font-size": ""
+        }]
+    },
+    {
+        "elmnt_id": 5,
+        "type": "model_text",
+        "preview": "<div class='col-6 model__text' data-id='5'><div class='card'><img src='assets/img/text/png.png' class='card-img-top'></div></div>",
+        "html": "<div class='dr model__1 text_model'><div class='model__1_1'>Monday</div><div class='model__1_2'>Specials</div><div class='model__1_3'>Red tuna with salad</div><div class='model__1_4'>cheesecacke</div></div>",
+        "target": "",
+        "css": [{
+                "elment_class": "model__1",
+                "display": "flex",
+                "top": "40px",
+                "left": "40px",
+                "position": "absolute",
+                "flex-direction": "column",
+                "align-items": "center",
+                "justify-items": "center",
+                "width": "200px"
+            },
+            {
+                "elment_class": "model__1_1",
+                "font-size": "11px",
+                "top": "-13px",
+                "position": "absolute",
+                "letter-spacing": "2px",
+                "text-transform": "uppercase",
+                "font-family": "Playfair Display"
+            },
+            {
+                "elment_class": "model__1_2",
+                "font-size": "36px",
+                "position": "absolute",
+                "font-family": "Kaushan Script",
+                "letter-spacing": "1px",
+                "line-height": "1.2"
+            },
+            {
+                "elment_class": "model__1_3",
+                "font-size": "9px",
+                "position": "absolute",
+                "font-family": "Roboto",
+                "letter-spacing": "2px",
+                "text-transform": "uppercase",
+                "top": "50px"
+            },
+            {
+                "elment_class": "model__1_4",
+                "font-size": "7px",
+                "position": "absolute",
+                "font-family": "Roboto",
+                "letter-spacing": "2px",
+                "text-transform": "uppercase",
+                "top": "65px"
+            }
+        ]
+    },
+    {
+        "elmnt_id": 7,
+        "type": "model_text",
+        "preview": "<div class='col-6 model__text' data-id='7'><div class='card'><img src='assets/img/text/2.png' class='card-img-top'></div></div>",
+        "html": "<div class='dr model__3 text_model'><div class='model__3_1'>Find the best</div><div class='model__3_2'>Travel</div><div class='model__3_3'>Destinations</div></div>",
+        "target": "",
+        "css": [{
+                "elment_class": "model__3",
+                "position": "absolute",
+                "display": "flex",
+                "flex-direction": "column",
+                "align-items": "center",
+                "justify-items": "center",
+                "width": "200px",
+                "top": "40px",
+                "left": "40px"
+            },
+            {
+                "elment_class": "model__3_1",
+                "position": "absolute",
+                "font-size": "9px",
+                "font-family": "Roboto",
+                "letter-spacing": "1px",
+                "text-transform": "uppercase"
+            },
+            {
+                "elment_class": "model__3_2",
+                "position": "absolute",
+                "font-size": "28px",
+                "font-family": "Roboto",
+                "font-weight": "bold",
+                "letter-spacing": "0",
+                "text-transform": "uppercase",
+                "line-height": "1",
+                "top": "10px"
+            },
+            {
+                "elment_class": "model__3_3",
+                "position": "absolute",
+                "font-size": "7px",
+                "font-family": "Playfair Display",
+                "letter-spacing": "2px",
+                "padding": "2px 10px",
+                "text-transform": "uppercase",
+                "color": "#222222",
+                "border-top": "1px solid",
+                "border-bottom": "1px solid",
+                "top": "40px"
+            }
+        ]
+    },
+    {
+        "elmnt_id": 11,
+        "type": "model_text",
+        "preview": "<div class='col-6 model__text' data-id='11'><div class='card'><img src='assets/img/text/3.png' class='card-img-top'></div></div>",
+        "html": "<div class='dr model__2 text_model'><div class='model__2_1'>Customer service</div><div class='model__2_2'>working 24/7.</div><div class='model__2_3'>Always up with the answers.</div></div>",
+        "target": "",
+        "css": [{
+                "elment_class": "model__2",
+                "position": "absolute",
+                "left": "40px",
+                "top": "40px",
+                "display": "flex",
+                "flex-direction": "column",
+                "align-items": "flex-start",
+                "justify-items": "center",
+                "width": "200px"
+            },
+            {
+                "elment_class": "model__2_1",
+                "font-size": "14px",
+                "font-family": "Open Sans",
+                "letter-spacing": "0",
+                "line-height": "1.1"
+            },
+            {
+                "elment_class": "model__2_2",
+                "font-size": "14px",
+                "font-family": "Open Sans",
+                "letter-spacing": "0",
+                "line-height": "1.1"
+            },
+            {
+                "elment_class": "model__2_3",
+                "font-size": "8px",
+                "font-family": "Open Sans",
+                "line-height": "1.5"
+            }
+        ]
+    },
+    {
+        "elmnt_id": 8,
+        "type": "model_text",
+        "preview": "<div class='col-6 model__text' data-id='8'><div class='card'><img src='assets/img/text/4.png' class='card-img-top'></div></div>",
+        "html": "",
+        "target": "",
+        "css": [{
+            "elment_class": "button1_style",
+            "display": "block",
+            "width": "115px",
+            "height": "25px",
+            "top": "20px",
+            "left": "20px",
+            "background": "#4E9CAF",
+            "padding": "10px",
+            "text-align": "center",
+            "border-radius": "5px",
+            "color": "white",
+            "font-weight": "bold",
+            "line-height": "25px"
+        }]
+    },
+    {
+        "elmnt_id": 6,
+        "type": "model_text",
+        "preview": "<div class='col-6 model__text' data-id='6'><div class='card'><img src='assets/img/text/5.png' class='card-img-top'></div></div>",
+        "html": "",
+        "target": "",
+        "css": [{
+            "elment_class": "button1_style",
+            "display": "block",
+            "width": "115px",
+            "height": "25px",
+            "top": "20px",
+            "left": "20px",
+            "background": "#4E9CAF",
+            "padding": "10px",
+            "text-align": "center",
+            "border-radius": "5px",
+            "color": "white",
+            "font-weight": "bold",
+            "line-height": "25px"
+        }]
+    },
+    {
+        "elmnt_id": 9,
+        "type": "model_text",
+        "preview": "<div class='col-6 model__text' data-id='9'><div class='card'><img src='assets/img/text/6.png' class='card-img-top'></div></div>",
+        "html": "",
+        "target": "",
+        "css": [{
+            "elment_class": "button1_style",
+            "display": "block",
+            "width": "115px",
+            "height": "25px",
+            "top": "20px",
+            "left": "20px",
+            "background": "#4E9CAF",
+            "padding": "10px",
+            "text-align": "center",
+            "border-radius": "5px",
+            "color": "white",
+            "font-weight": "bold",
+            "line-height": "25px"
+        }]
+    },
+    {
+        "elmnt_id": 10,
+        "type": "model_text",
+        "preview": "<div class='col-6 model__text' data-id='10'><div class='card'><img src='assets/img/text/7.png' class='card-img-top'></div></div>",
+        "html": "",
+        "target": "",
+        "css": [{
+            "elment_class": "button1_style",
+            "display": "block",
+            "width": "115px",
+            "height": "25px",
+            "top": "20px",
+            "left": "20px",
+            "background": "#4E9CAF",
+            "padding": "10px",
+            "text-align": "center",
+            "border-radius": "5px",
+            "color": "white",
+            "font-weight": "bold",
+            "line-height": "25px"
+        }]
+    },
+    {
+        "elmnt_id": 4,
+        "type": "model_text",
+        "preview": "<div class='col-6 model__text' data-id='4'><div class='card'><img src='assets/img/text/8.png' class='card-img-top'></div></div>",
+        "html": "",
+        "target": "",
+        "css": [{
+            "elment_class": "button1_style",
+            "display": "block",
+            "width": "115px",
+            "height": "25px",
+            "top": "20px",
+            "left": "20px",
+            "background": "#4E9CAF",
+            "padding": "10px",
+            "text-align": "center",
+            "border-radius": "5px",
+            "color": "white",
+            "font-weight": "bold",
+            "line-height": "25px"
+        }]
+    },
+    {
+        "elmnt_id": 12,
+        "type": "button",
+        "html": "<a class='button1_style'>Button 1</a>",
+        "target": "",
+        "css": [{
+            "elment_class": "button1_style",
+            "display": "block",
+            "width": "115px",
+            "height": "25px",
+            "top": "20px",
+            "left": "20px",
+            "background": "#4E9CAF",
+            "padding": "10px",
+            "text-align": "center",
+            "border-radius": "5px",
+            "color": "white",
+            "font-weight": "bold",
+            "line-height": "25px"
+        }]
+    },
+    {
+        "elmnt_id": 12,
+        "type": "button",
+        "html": "",
+        "target": "",
+        "css": [{
+            "elment_class": "button1_style",
+            "display": "block",
+            "width": "115px",
+            "height": "25px",
+            "top": "20px",
+            "left": "20px",
+            "background": "#4E9CAF",
+            "padding": "10px",
+            "text-align": "center",
+            "border-radius": "5px",
+            "color": "white",
+            "font-weight": "bold",
+            "line-height": "25px"
+        }]
+    }
+]
